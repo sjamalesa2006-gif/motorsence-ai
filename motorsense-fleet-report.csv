@@ -1,0 +1,5 @@
+"Motor","ID","Health","Status","Temperature °C","Vibration mm/s","Runtime"
+"Main drive motor","M-2048","96%","Optimal","68.4","2.1","8,421 h"
+"Cooling pump motor","M-2052","88%","Watch","74.2","3.8","12,098 h"
+"Conveyor motor 02","M-2091","62%","Attention","81.6","5.7","18,342 h"
+"Exhaust fan motor","M-2104","99%","Optimal","61.2","1.6","5,628 h"
